@@ -14,8 +14,9 @@
 ---
 
 ## Progress
-[어서와! 자료구조와 알고리즘은 처음이지?](https://school.programmers.co.kr/learn/courses/57)  강의 수강(하루 1강씩)
-[코딩테스트 입문](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc) 25일 일정에 맞춰 하루 4문제 풀이
+* [어서와! 자료구조와 알고리즘은 처음이지?](https://school.programmers.co.kr/learn/courses/57)  강의 수강(하루 1강씩)
+
+* [코딩테스트 입문](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc) 25일 일정에 맞춰 하루 4문제 풀이
 
 ---
 
