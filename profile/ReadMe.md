@@ -4,9 +4,9 @@
 ## Contributer
 | Name | Contact|
 | ---- | ----   |
-| [@sumin-dev]() | bonar8888@naver.com |
-| [@kwanyung]()  | qwe980121@naver.com |
-| []() | |
+| [@sumin-dev](https://github.com/sumin-dev) | bonar8888@naver.com |
+| [@kwanyung](https://github.com/kwanyung)  | qwe980121@naver.com |
+| [@taesickyoon](https://github.com/taesikyoon) | |
 | []() | |
 
 ## Start 221026 ~
