@@ -7,7 +7,7 @@
 | [@sumin-dev](https://github.com/sumin-dev) | bonar8888@naver.com |
 | [@kwanyung](https://github.com/kwanyung)  | qwe980121@naver.com |
 | [@taesickyoon](https://github.com/taesikyoon) | taesikyoon97@naver.com |
-| [@soularofdawn](https://github.com/soularofdawn) | tjdfud1789@naver.com |
+| [@ryeong25](https://github.com/ryeong25) | tjdfud1789@naver.com |
 
 ## Start 221026 ~
 
